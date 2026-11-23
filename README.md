@@ -69,7 +69,8 @@ sudo -u postgres psql -c "CREATE DATABASE tg_collector OWNER octagon;"
 ### 3. Установка проекта
 
 ```bash
-git clone https://github.com/loveuh4teu/OctagonTelegramBot.git
+git clone https://github.com/the-4OUR5IVE/TelegramCorporateArchive.git
+cd TelegramCorporateArchive
 cd OctagonTelegramBot
 python3 -m venv venv
 source venv/bin/activate
