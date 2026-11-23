@@ -1,0 +1,6 @@
+aiogram
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+openpyxl
+tzdata
