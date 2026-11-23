@@ -142,11 +142,8 @@ python -m app.main
 
 Скриншоты находятся в папке `examples/`.
 
-Видео-демонстрация: добавить ссылку на собственную запись после съёмки.
+Видео-демонстрация: https://drive.google.com/file/d/1HRjDcIala6dymiYYDZOnlT-R5uKnBkWk/view?usp=sharing
 
 ## Дополнительная архитектурная документация
 См. [ARCHITECTURE.md](ARCHITECTURE.md).
-
-## Происхождение исходного решения
-Проект подготовлен на основе публичного примера [OctagonTelegramBot](https://github.com/loveuh4teu/OctagonTelegramBot) пользователя loveuh4teu. Повторная публикация и академическая сдача возможны только при соблюдении прав автора и требований практики.
 
